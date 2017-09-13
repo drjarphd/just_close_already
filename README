@@ -1,3 +1,6 @@
 The day is done. Its time to go. Everything needs to shut down NOW. 
-This is a batch file which closes almost any program that Austin might be using to expediate leaving work on time.  
-For Austin's who hate spending a long time closing things on a 32bit machine.
+This is a batch file which closes almost any program that Austin might be using to expediate leaving work on time.
+This also starts a restart timer set for thirty minutes just in case someone decides to walk in just as Austin is 
+getting ready to leave and needs to access something.
+
+This program is intended for Austin's who hate spending a long time closing things on a 32bit machine.
